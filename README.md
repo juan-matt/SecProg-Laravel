@@ -1,5 +1,5 @@
 # SecProg-Laravel
-Tugas-SecurePrograming-Ecommerce-Laravel
+Tugas SecurePrograming Ecommerce dengan Laravel
 
 ## Kelas : LA-07
 ## Kelompok:
